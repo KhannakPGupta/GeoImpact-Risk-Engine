@@ -20,8 +20,8 @@ What happens when global energy supply chains break? The **GeoImpact Risk Engine
 
 By taking real-world constraints—such as a country's Strategic Petroleum Reserve (SPR) days, Middle East fuel dependency, and alternative sourcing capabilities—this engine runs mathematical simulations to forecast the cascading economic damage of regional conflicts. It serves as an interactive "what-if" tool for policymakers, analysts, and economists.
 
-> **Live Demo:** *Deploy this app on Streamlit Cloud and link it here!*
-
+**Live Demo:** https://geoimpact.streamlit.app/
+ 
 ---
 
 ## ✨ Key Features
