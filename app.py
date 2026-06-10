@@ -132,7 +132,7 @@ if st.sidebar.button("Run Simulation 🚀"):
     imp_pred = reg_import.predict(X_input)[0]
     risk_pred = classifier.predict(X_input)[0]
     
-    risk_labels = {0: "Low Risk 🟢", 1: "Medium Risk 🟡", 2: "High Risk 🟠", 3: "Critical Risk 🔴"}
+    risk_labels = {0: "Low🟢", 1: "Medium🟡", 2: "High🟠", 3: "Critical🔴"}
     
     st.markdown("### 📊 Economic Impact Forecast")
     st.caption("These metrics represent the direct economic blow to the selected country under the current simulated shock scenario.")
